@@ -51,34 +51,34 @@ Der Fokus liegt besonders auf einer **klaren Benutzerführung**, einer **moderne
 ### 📋 Hauptansicht
 Übersicht über alle verfügbaren Netatmo-Module in einem modernen Kachellayout.
 
-![Main List View](Assets/mainListView.png)
+<img src="Assets/mainListView.png" alt="Hauptansicht" width="350">
 
 ---
 
 ### 📈 Detailansicht – Temperatur (Tag)
 Detailansicht eines Moduls mit Temperaturverlauf für einen Tag, dargestellt als Liniendiagramm.
 
-![Detail View – Tag](Assets/detailView.png)
+<img src="Assets/detailView.png" alt="Detailansicht Tagesverlauf" width="350">
 
 ---
 
 ### 🌧️ Regenmodul – Tagesansicht mit Bar-Chart
 Regenmengen pro Stunde als Balkendiagramm.
 
-![Rain Detail View](Assets/rainDetailView.png)
+<img src="Assets/rainDetailView.png" alt="Regenmodul Tagesverlauf" width="350">
 
 ---
 
 ### 📅 Wochen- und Monatsverlauf
 
 #### Wochenansicht (Temperaturverlauf)
-![Week Detail View](Assets/weekDetailView.png)
+<img src="Assets/weekDetailView.png" alt="Wochenansicht" width="350">
 
 #### Monatsansicht (mit Höchst- und Tiefsttemperatur pro Tag)
-![Month Detail View](Assets/monthDetailView.png)
+<img src="Assets/monthDetailView.png" alt="Monatsansicht Temperaturverlauf" width="350">
 
 #### Monatsansicht mit aktivem Popover (Drag-Geste)
-![Month Detail View with Drag](Assets/monthDetailViewDragGesture.png)
+<img src="Assets/monthDetailViewDragGesture.png" alt="Monatsansicht mit Popover-Geste" width="350">
 
 ---
 
