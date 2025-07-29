@@ -74,7 +74,7 @@ Regenmengen pro Stunde als Balkendiagramm.
 #### Wochenansicht (Temperaturverlauf)
 ![Week Detail View](Assets/weekDetailView.png)
 
-#### Monatsansicht
+#### Monatsansicht (mit Höchst- und Tiefsttemperatur pro Tag)
 ![Month Detail View](Assets/monthDetailView.png)
 
 #### Monatsansicht mit aktivem Popover (Drag-Geste)
@@ -87,6 +87,8 @@ Regenmengen pro Stunde als Balkendiagramm.
 Hier folgt ein animiertes GIF, das einen kurzen Ablauf durch die App zeigt:
 
 ![App Demo GIF](Assets/demo.gif)
+
+
 *Live-Demo ohne Geräte-Rahmen (Bezel)*
 
 
