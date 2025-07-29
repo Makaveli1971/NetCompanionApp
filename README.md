@@ -82,12 +82,15 @@ Regenmengen pro Stunde als Balkendiagramm.
 
 ---
 
-## 🎥 Demo (GIF)
+## 🎥 Demo
 
-Hier folgt ein animiertes GIF, das einen kurzen Ablauf durch die App zeigt:
+Ein animiertes GIF zeigt die wichtigsten Ansichten und Interaktionen der App:
 
-![App Demo GIF](Assets/demo.gif)
+- Modulübersicht mit Temperatur, Luftfeuchtigkeit, Batteriestatus
+- Detailansicht mit Charts (Tag, Woche, Monat)
+- Drag-Geste zum Einblenden von Popover-Details
 
+<img src="Assets/demo.gif" alt="App Demo GIF" width="350">
 
 *Live-Demo ohne Geräte-Rahmen (Bezel)*
 
