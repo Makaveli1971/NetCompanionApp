@@ -49,14 +49,14 @@ Der Fokus liegt besonders auf einer **klaren Benutzerführung**, einer **moderne
 ## 📸 Screenshots
 
 ### 📋 Hauptansicht
-Zeigt alle verfügbaren Netatmo-Module als übersichtliche Kacheln.
+Übersicht über alle verfügbaren Netatmo-Module in einem modernen Kachellayout.
 
 ![Main List View](Assets/mainListView.png)
 
 ---
 
 ### 📈 Detailansicht – Temperatur (Tag)
-Ein Modul in der Tagesansicht mit Temperaturverlauf als Liniendiagramm.
+Detailansicht eines Moduls mit Temperaturverlauf für einen Tag, dargestellt als Liniendiagramm.
 
 ![Detail View – Tag](Assets/detailView.png)
 
