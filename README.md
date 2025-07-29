@@ -81,6 +81,16 @@ Regenmengen pro Stunde als Balkendiagramm.
 <img src="Assets/monthDetailViewDragGesture.png" alt="Monatsansicht mit Popover-Geste" width="350">
 
 ---
+## 🧩 Widget
+
+Das Widget zeigt die aktuellen Werte der **Hauptstation** direkt auf dem Homescreen an.  
+Es umfasst Temperatur, Luftfeuchtigkeit, Luftdruck und CO₂-Wert.  
+Das Layout passt sich automatisch dem Light- oder Dark Mode des Geräts an.
+
+<img src="Assets/widgetLight.png" width="250">
+<img src="Assets/widgetDark.png" width="250">
+
+---
 
 ## 🎥 Demo
 
