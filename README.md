@@ -1,6 +1,6 @@
 # NetCompanion App
 
-**NetCompanion** ist eine native iOS-App für Nutzer von Netatmo-Wetterstationen. Sie bietet eine schnelle, werbefreie und datenschutzfreundliche Möglichkeit, alle Module im Überblick zu behalten – inklusive Temperaturverlauf und Statusinformationen aller Module.
+**NetCompanion** ist eine native iOS-App für Nutzer von Netatmo-Wetterstationen. Sie bietet eine schnelle, werbefreie und datenschutzfreundliche Möglichkeit, alle Module im Überblick zu behalten – inklusive Temperaturverlauf und Statusinformationen aller Module. 
 
 ---
 
